@@ -1,0 +1,133 @@
+{
+  "quickPlayData" : {
+    "2535424531710046" : 
+    [
+      {
+        "epochLastPlayedTimeMs" : 1694023768000,
+        "id" : "192.168.1.16:25565",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1694022994000,
+        "id" : "192.168.1.16",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1694020741000,
+        "id" : "192.168.1.16",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "creative",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1694017978000,
+        "id" : "Yeni D\u00fcnya (7)",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "singleplayer"
+          }
+        },
+        "name" : "Yeni D\u00fcnya",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1694005143855,
+        "id" : "fabric-loader-1.20.1",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1"
+        },
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1693867760000,
+        "id" : "192.168.1.16:25565",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "creative",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1693859602000,
+        "id" : "192.168.1.4:25565",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "creative",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1693852558000,
+        "id" : "192.168.1.4:25565",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1693609082000,
+        "id" : "busham.online",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      },
+      {
+        "epochLastPlayedTimeMs" : 1693593905000,
+        "id" : "2.tcp.eu.ngrok.io:12906",
+        "javaInstance" : {
+          "configId" : "fabric-loader-1.20.1",
+          "game" : {
+            "gamemode" : "survival",
+            "type" : "multiplayer"
+          }
+        },
+        "name" : "Minecraft Sunucusu",
+        "source" : "JavaQuickPlay"
+      }
+    ]
+  },
+  "version" : 0
+}

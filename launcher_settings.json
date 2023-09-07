@@ -1,0 +1,12 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 5833887424985796921,
+  "formatVersion" : 0,
+  "locale" : "tr-TR",
+  "productLibraryDir" : "C:\\Users\\efebo\\AppData\\Local\\Mojang\\products",
+  "quickPlayEnabled" : false,
+  "useArm64JreIfSupported" : false,
+  "useMagnifiedMode" : false,
+  "version" : 5
+}

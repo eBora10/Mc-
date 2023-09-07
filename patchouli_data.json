@@ -1,0 +1,69 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "simplyswords:runic_grimoire": {
+      "viewedEntries": [
+        "simplyswords:rune_etching/entry_rp_frost_ward",
+        "simplyswords:weapon_variants/entry_halberd",
+        "simplyswords:weapon_variants/entry_cutlass",
+        "simplyswords:weapon_variants/entry_scythe",
+        "simplyswords:weapon_variants/entry_longsword",
+        "simplyswords:rune_etching/entry_rp_unstable",
+        "simplyswords:rune_etching/entry_rp_swiftness",
+        "simplyswords:gem_socketing/entry_netherfused_gem",
+        "simplyswords:rune_etching/entry_rp_pincushion",
+        "simplyswords:weapon_variants/entry_greataxe",
+        "simplyswords:rune_etching/entry_rp_zephyr",
+        "simplyswords:rune_etching/entry_rp_active_defence",
+        "simplyswords:weapon_variants/entry_katana",
+        "simplyswords:rune_etching/entry_rp_slow",
+        "simplyswords:rune_etching/entry_rp_freeze",
+        "simplyswords:weapon_variants/entry_sai",
+        "simplyswords:weapon_variants/entry_greathammer",
+        "simplyswords:rune_etching/entry_rp_ward",
+        "simplyswords:weapon_variants/entry_claymore",
+        "simplyswords:rune_etching/entry_rp_imbued",
+        "simplyswords:gem_socketing/entry_runefused_gem",
+        "simplyswords:rune_etching/entry_rp_stoneskin",
+        "simplyswords:weapon_variants/entry_chakram",
+        "simplyswords:rune_etching/entry_rp_trailblaze",
+        "simplyswords:rune_etching/entry_rp_shielding",
+        "simplyswords:rune_etching/entry_rp_float",
+        "simplyswords:weapon_variants/entry_glaive",
+        "simplyswords:weapon_variants/entry_spear",
+        "simplyswords:weapon_variants/entry_warglaive",
+        "simplyswords:rune_etching/entry_rp_immolation",
+        "simplyswords:gem_socketing/entry_howto_socket_gems",
+        "simplyswords:rune_etching/entry_rp_momentum",
+        "simplyswords:gem_socketing/entry_empowered_remnant",
+        "simplyswords:weapon_variants/entry_twinblade",
+        "simplyswords:rune_etching/entry_rp_wildfire",
+        "simplyswords:weapon_variants/entry_rapier",
+        "simplyswords:rune_etching/entry_rp_weaken",
+        "simplyswords:uniques/entry_the_watcher",
+        "simplyswords:uniques/entry_sword_on_a_stick",
+        "simplyswords:uniques/entry_storms_edge"
+      ],
+      "bookmarks": [
+        {
+          "entry": "simplyswords:uniques/entry_the_watcher",
+          "page": 0
+        },
+        {
+          "entry": "simplyswords:uniques/entry_the_watcher",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    },
+    "archon:grimoire": {
+      "viewedEntries": [
+        "archon:mana/basics",
+        "archon:mana/scrolls"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

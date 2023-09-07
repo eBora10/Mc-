@@ -1,0 +1,5 @@
+[0906/205825.507:INFO:main_context.cpp(136)] CEF initialized successfully.
+[0906/205825.507:INFO:main_context.cpp(138)] CEF version: 99.2.14+g3f796b8+chromium-99.0.4844.84
+[0906/205827.615:INFO:CONSOLE(2)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://mojang/launcher/static/js/app.69876942.bundle.js (2)
+[0906/205847.546:INFO:LauncherAppRenderer.cpp(542)] OnContextReleased: no frame (unknown context), browser id=1
+[0906/210025.919:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled, ANGLE is 
